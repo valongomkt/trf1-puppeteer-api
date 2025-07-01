@@ -1,6 +1,7 @@
 {
   "name": "trf1-puppeteer-api",
   "version": "1.0.0",
+  "description": "API para consulta de processos por CPF/CNPJ no TRF1 com Puppeteer",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
